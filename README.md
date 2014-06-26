@@ -2,8 +2,7 @@ Restaurant100
 =============
 
 AIO management tool for small restaurants (includes a POS [Point Of Sales] system.)
-This is being made for my senior project, teamed with 2 other people as well. Most work here is done by me (mikedloss) though.
-
+This is being made for my senior project, teamed with 2 other people as well.
 Also please note this readme is ugly and I don't know how to format it correctly.
 Installation
 ============
